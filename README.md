@@ -1,7 +1,9 @@
 # BCB502_Final_Project: Tuberculosis Dashboard
 
 ## Website
-Here is the [link](https://mnorales.github.io/BCB502_Final_Project/) to our project site
+Here is the [link](https://mnorales.github.io/BCB502_Final_Project/) to our project site.
+## Screen-Cast
+Here is the [link](https://vimeo.com/705224444) to our video recording.
 
 ## Due May 2
 - Process book
