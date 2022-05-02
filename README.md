@@ -1,10 +1,7 @@
-# BCB502_Final_Project
+# BCB502_Final_Project: Tuberculosis Dashboard
 
-## Goal
-Making a d3 dashboard visualization of Tuberculosis data
-
-## Due April 4th
-After choosing your topic and forming your team. Create a brief PDF writeup with more detail using the prospectus repo (a separate repository). After submitting, we will go over your PDFs in team + professor meetings on Zoom to discuss feedback on scope, ideas, etc.
+## Website
+Here is the [link](https://mnorales.github.io/BCB502_Final_Project/) to our project site
 
 ## Due May 2
 - Process book
